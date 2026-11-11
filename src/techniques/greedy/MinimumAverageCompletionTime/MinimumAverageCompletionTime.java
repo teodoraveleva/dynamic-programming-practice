@@ -1,4 +1,4 @@
-package MinimumAverageCompletionTime;
+package techniques.greedy.MinimumAverageCompletionTime;
 
 import java.util.Scanner;
 import java.util.Arrays;

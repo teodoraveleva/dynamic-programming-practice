@@ -1,4 +1,4 @@
-package ClimbingStairs123;
+package techniques.dynamic.ClimbingStairs123;
 
 import java.util.Scanner;
 

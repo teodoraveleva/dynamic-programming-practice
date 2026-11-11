@@ -1,4 +1,4 @@
-package CoinChange;
+package techniques.dynamic.CoinChange;
 
 import java.util.Scanner;
 

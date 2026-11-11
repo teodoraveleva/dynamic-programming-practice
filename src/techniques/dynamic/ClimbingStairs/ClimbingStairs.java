@@ -1,4 +1,4 @@
-package ClimbingStairs;
+package techniques.dynamic.ClimbingStairs;
 
 //ili edno skalilo ili 2 skalila
 

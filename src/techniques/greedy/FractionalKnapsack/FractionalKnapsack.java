@@ -1,4 +1,4 @@
-package FractionalKnapsack;
+package techniques.greedy.FractionalKnapsack;
 
 import java.util.Scanner;
 

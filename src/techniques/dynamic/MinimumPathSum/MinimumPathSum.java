@@ -1,4 +1,4 @@
-package MinimumPathSum;
+package techniques.dynamic.MinimumPathSum;
 
 import java.util.Scanner;
 

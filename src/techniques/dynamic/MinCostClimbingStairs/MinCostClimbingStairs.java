@@ -1,4 +1,4 @@
-package MinCostClimbingStairs;
+package techniques.dynamic.MinCostClimbingStairs;
 
 import java.util.Scanner;
 

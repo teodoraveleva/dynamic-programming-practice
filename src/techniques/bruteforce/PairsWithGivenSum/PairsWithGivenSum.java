@@ -1,6 +1,5 @@
-package PairsWithGivenSum;
+package techniques.bruteforce.PairsWithGivenSum;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class PairsWithGivenSum {

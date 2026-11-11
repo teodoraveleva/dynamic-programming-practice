@@ -1,4 +1,4 @@
-package ClimbingStairsWithGivenSteps;
+package techniques.dynamic.ClimbingStairsWithGivenSteps;
 
 
 import java.util.Scanner;

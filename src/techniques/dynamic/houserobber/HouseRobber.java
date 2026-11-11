@@ -1,4 +1,4 @@
-package techniques.dynamic.HouseRobber;
+package techniques.dynamic.houserobber;
 
 import java.util.Scanner;
 

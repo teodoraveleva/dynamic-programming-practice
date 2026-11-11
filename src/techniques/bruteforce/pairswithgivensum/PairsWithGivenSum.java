@@ -1,4 +1,4 @@
-package techniques.bruteforce.PairsWithGivenSum;
+package techniques.bruteforce.pairswithgivensum;
 
 import java.util.Scanner;
 

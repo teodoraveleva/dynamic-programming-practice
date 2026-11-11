@@ -1,4 +1,4 @@
-package techniques.dynamic.UniquePaths;
+package techniques.dynamic.uniquepaths;
 
 import java.util.Scanner;
 
